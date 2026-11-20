@@ -1,0 +1,9 @@
+{
+  "name": "neowise-candidate-triage",
+  "private": true,
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test test/triage.test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
